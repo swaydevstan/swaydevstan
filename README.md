@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stanley
+- 👋 Hi, I’m Stanley, a Cloud DevOps Engineer
 - 👀 I’m interested in all things cloud and DevOps or Cloud Engineering roles
 - 🌱 I’m currently learning the concepts and tools for Cloud Engineering and DevOps
 - 💞️ I’m looking to collaborate on Cloud projects
